@@ -1,4 +1,4 @@
-# using-stepper-motor-with-arduino-uno
+# circuit-to-controlling-stepper-motor-with-arduino-uno
 
 To control Bipolar or unipolar with arduino i will using a module depends on ULN2003a IC that allow us to control inducters inside stepper motor.
 we will connect it as follow;
